@@ -1,0 +1,33 @@
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.csproj.AssemblyReference.cache
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.AssemblyInfoInputs.cache
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.AssemblyInfo.cs
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.csproj.CoreCompileInputs.cache
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.MvcApplicationPartsAssemblyInfo.cs
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.MvcApplicationPartsAssemblyInfo.cache
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.sourcelink.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/appsettings.Development.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/appsettings.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Assignment 2
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Assignment 2.deps.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Assignment 2.runtimeconfig.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Assignment 2.dll
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Assignment 2.pdb
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.Assignment 2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.build.Assignment 2.props
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Assignment 2.props
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Assignment 2.props
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/scopedcss/bundle/Assignment 2.styles.css
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignme.B8B9BD87.Up2Date
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.dll
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/refint/Assignment 2.dll
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.pdb
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/Assignment 2.genruntimeconfig.cache
+/Users/rahulkataria/Desktop/Humber - Material/Back End Devlopment/Assignments/Assignment 2/Assignment 2/obj/Debug/net8.0/ref/Assignment 2.dll
